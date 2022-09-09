@@ -4,8 +4,8 @@
  * "with proper grammer, but the outcome is a piece of art,"
  * RETURN: 0 if exited properly, non-zero otherwise
  **/
-int main(void)
+intmain(void)
 {
-	printf("with proper grammer, but theoutcome is a piece of art,\n");
+	printf("with proper grammer, but the outcome is a piece of art,\n");
 	return (0);
 }
